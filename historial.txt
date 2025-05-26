@@ -1,0 +1,6 @@
+[20:12:17] 🚫 SPAM | Confianza: 0.70 | Texto: Congratulations! You've won a free iPhone! Click here to claim.
+[20:12:24] ✅ NO SPAM | Confianza: 0.84 | Texto: Te envío el archivo en cuanto lo tenga listo.
+[20:12:33] ✅ NO SPAM | Confianza: 0.64 | Texto: Gana un viaje a Bahamas solo por responder este mensaje.
+[20:12:41] 🚫 SPAM | Confianza: 0.62 | Texto: Visita este enlace para reclamar tu premio: http://malicioso.com
+[19:33:21] ✅ NO SPAM | Confianza: 0.87 | Texto: Te sigues sintiendo mal?
+[23:06:58] 🚫 SPAM | Confianza: 0.70 | Texto: Congratulations! You've won a free iPhone! Click here to claim.
